@@ -17,19 +17,22 @@ class App extends React.Component {
 
   handleClick(e) {
     e.preventDefault();
-    const bbb = this.nameRef.current.value
-    this.setState(state => ({
-      bbb : this.state.aaa.push(bbb)
-    }));
+    var bbb = this.nameRef.current.value
+    this.setState({
+      aaa: [
+        ...this.state.aaa,
+        bbb
+      ]
+    });
     this.nameRef.current.value = '';
   }
 
   Click(i) {
     console.log(i)
 
-    this.setState(state => ({
-      ccc : this.state.aaa.splice(i,1)
-    }));
+    const ccc = this.state.aaa.splice(i,1)
+
+    this.setState({ aaa: ccc });
   }
 
   render () {
