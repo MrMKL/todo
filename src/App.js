@@ -30,7 +30,9 @@ class App extends React.Component {
   Click(i) {
     console.log(i)
 
-    const ccc = this.state.aaa.splice(i,1)
+    const ccc = this.state.aaa
+    // ccc.splice(i,1)
+    delete ccc[i]
 
     this.setState({ aaa: ccc });
   }
