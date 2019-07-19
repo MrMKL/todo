@@ -10,7 +10,7 @@
       "properties": {
         "PARK_ID": 960,
         "FACILITYID": 28014,
-        "NAME": "澳門路邊站",
+        "NAME": "路邊",
         "NAME_FR": "Planchodrome Bearbrook",
         "ADDRESS": "8720 Russell Road",
         "ADDRESS_FR": "8720, chemin Russell",
@@ -70,7 +70,7 @@
       "properties": {
         "PARK_ID": 1219,
         "FACILITYID": 28001,
-        "NAME": "澳門高密度住宅區監測站",
+        "NAME": "澳門高密度住宅區",
         "NAME_FR": "Planchodrome Bob-MacQuarrie (Parc SK8 Extreme)",
         "ADDRESS": "1490 Youville Drive",
         "ADDRESS_FR": "1490, promenade Youville",
@@ -100,7 +100,7 @@
       "properties": {
         "PARK_ID": 1219,
         "FACILITYID": 28001,
-        "NAME": "氹仔高密度住宅區監測站",
+        "NAME": "氹仔高密度住宅區",
         "NAME_FR": "Planchodrome Bob-MacQuarrie (Parc SK8 Extreme)",
         "ADDRESS": "1490 Youville Drive",
         "ADDRESS_FR": "1490, promenade Youville",
@@ -130,7 +130,7 @@
       "properties": {
         "PARK_ID": 1219,
         "FACILITYID": 28001,
-        "NAME": "氹仔一般性監測站",
+        "NAME": "氹仔一般性",
         "NAME_FR": "Planchodrome Bob-MacQuarrie (Parc SK8 Extreme)",
         "ADDRESS": "1490 Youville Drive",
         "ADDRESS_FR": "1490, promenade Youville",
@@ -160,7 +160,7 @@
       "properties": {
         "PARK_ID": 1219,
         "FACILITYID": 28001,
-        "NAME": "路環一般性監測站",
+        "NAME": "路環一般性",
         "NAME_FR": "Planchodrome Bob-MacQuarrie (Parc SK8 Extreme)",
         "ADDRESS": "1490 Youville Drive",
         "ADDRESS_FR": "1490, promenade Youville",
